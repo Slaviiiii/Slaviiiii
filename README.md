@@ -5,4 +5,4 @@
  ## Technologies I am learning at the moment:
    ### <img src="https://github.com/Slaviiiii/Slaviiiii/blob/main/images/Html-logo.png" width="185" height="170" /> <img src="https://github.com/Slaviiiii/Slaviiiii/blob/main/images/Css-logo.png" width="185"                  height="170" /> 
  ## Technologies I would like to learn:
-   ### <img src="https://github.com/Slaviiiii/Slaviiiii/blob/main/images/TypeScript-logo.png" />
+   ### <img src="https://github.com/Slaviiiii/Slaviiiii/blob/main/images/TypeScript-logo.png" width='300'/>
