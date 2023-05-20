@@ -1,11 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Slavi Karaslavov</h1>
 <h3 align="center">I am an ambitious student (at the SoftUni academy) from Bulgaria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slaviiiii&label=Profile%20views&color=0e75b6&style=flat" alt="slaviiiii" /> </p>
 
-<p align="left"> <a href="https://twitter.com/slavikaraslavov" target="blank"><img src="https://img.shields.io/twitter/follow/slavikaraslavov?logo=twitter&style=for-the-badge" alt="slavikaraslavov" /></a> </p>
+<p align="left"> <a href="https://twitter.com/slavikaraslavov" target="_blank"><img src="https://img.shields.io/twitter/follow/slavikaraslavov?logo=twitter&style=for-the-badge" alt="slavikaraslavov" /></a> </p>
 
 - 🌱 I’m currently learning **Html and Css**
 
@@ -17,14 +17,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/slaviiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="slaviiiii" height="30" width="40" /></a>
-<a href="https://twitter.com/slavikaraslavov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slavikaraslavov" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19581510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19581510" height="30" width="40" /></a>
-<a href="https://fb.com/slavi karaslavov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="slavi karaslavov" height="30" width="40" /></a>
-<a href="https://instagram.com/slavi_karaslavov_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="slavi_karaslavov_08" height="30" width="40" /></a>
-<a href="https://dribbble.com/slaviik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="slaviik" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/slavi karaslavov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="slavi karaslavov" height="30" width="40" /></a>
-<a href="https://discord.gg/SlaviiK#0805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SlaviiK#0805" height="30" width="40" /></a>
+<a href="https://codepen.io/slaviiiii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="slaviiiii" height="30" width="40" /></a>
+<a href="https://twitter.com/slavikaraslavov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slavikaraslavov" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19581510" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19581510" height="30" width="40" /></a>
+<a href="https://fb.com/slavi karaslavov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="slavi karaslavov" height="30" width="40" /></a>
+<a href="https://instagram.com/slavi_karaslavov_08" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="slavi_karaslavov_08" height="30" width="40" /></a>
+<a href="https://dribbble.com/slaviik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="slaviik" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/slavi karaslavov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="slavi karaslavov" height="30" width="40" /></a>
+<a href="https://discord.gg/SlaviiK#0805" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SlaviiK#0805" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
