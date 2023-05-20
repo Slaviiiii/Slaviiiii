@@ -6,4 +6,3 @@
    ### <img src="https://github.com/Slaviiiii/Slaviiiii/blob/main/images/Html-logo.png" width="185" height="170" /> <img src="https://github.com/Slaviiiii/Slaviiiii/blob/main/images/Css-logo.png" width="185"                  height="170" /> 
  ## Technologies I would like to learn in the future:
    ### <img src="https://github.com/Slaviiiii/Slaviiiii/blob/main/images/TypeScript-logo.png" width='210' height='200'/>
- [!github](http://www.twitter.com/carlsednaoui)
