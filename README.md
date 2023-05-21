@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://codepen.io/slaviiiii" target="_blank" rel="opener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="slaviiiii" height="30" width="40" /></a>
+<a href="https://codepen.io/slaviiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="slaviiiii" height="30" width="40" /></a>
 <a href="https://twitter.com/slavikaraslavov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slavikaraslavov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19581510" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19581510" height="30" width="40" /></a>
 <a href="https://fb.com/slavi karaslavov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="slavi karaslavov" height="30" width="40" /></a>
