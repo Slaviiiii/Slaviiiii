@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slaviiiii&label=Profile%20views&color=0e75b6&style=flat" alt="slaviiiii" /> </p>
 
-<p align="left"> <a href="https://twitter.com/slavikaraslavov" target="_blank"><img src="https://img.shields.io/twitter/follow/slavikaraslavov?logo=twitter&style=for-the-badge" alt="slavikaraslavov" /></a> </p>
+<p align="left"> <a href="https://twitter.com/slavikaraslavov" target="_blank" rel="opener"><img src="https://img.shields.io/twitter/follow/slavikaraslavov?logo=twitter&style=for-the-badge" alt="slavikaraslavov" /></a> </p>
 
 - 🌱 I’m currently learning **Html and Css**
 
