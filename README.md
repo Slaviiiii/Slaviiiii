@@ -24,7 +24,6 @@
 <a href="https://instagram.com/slavi_karaslavov_08" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="slavi_karaslavov_08" height="30" width="40" /></a>
 <a href="https://dribbble.com/slaviik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="slaviik" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/slavi karaslavov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="slavi karaslavov" height="30" width="40" /></a>
-<a href="https://discord.gg/SlaviiK#0805" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SlaviiK#0805" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
