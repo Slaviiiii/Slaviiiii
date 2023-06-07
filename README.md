@@ -35,8 +35,8 @@
 <h2>📈 GitHub Stats</h2>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slaviiiii&show_icons=true&locale=en&layout=compact" alt="slaviiiii" /></p>
+<p><img align="left" src="https://github-readme-stats-red-mu.vercel.app/api/top-langs?username=slaviiiii&show_icons=true&locale=en&layout=compact" alt="slaviiiii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slaviiiii&show_icons=true&locale=en" alt="slaviiiii" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-red-mu.vercel.app/api?username=slaviiiii&show_icons=true&locale=en" alt="slaviiiii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slaviiiii&" alt="slaviiiii" /></p> 
