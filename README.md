@@ -35,12 +35,8 @@
 <h2>📈 GitHub Stats</h2>
 
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/calm/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/calm/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/calm/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/calm/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/calm/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slaviiiii&show_icons=true&locale=en&layout=compact" alt="slaviiiii" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slaviiiii&show_icons=true&locale=en&layout=compact" alt="slaviiiii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slaviiiii&show_icons=true&locale=en" alt="slaviiiii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slaviiiii&" alt="slaviiiii" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slaviiiii&" alt="slaviiiii" /></p> 
