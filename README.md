@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/Slaviiiii/Slaviiiii/assets/106228555/c894c313-fcb0-4842-b7c0-d65dd105d8b0">
 <h1 align="center">Hi 👋, I'm Slavi Karaslavov</h1>
-<h3 align="center">An ambitious student ( at SoftUni ) from Bulgaria</h3>
+<h3 align="center">An ambitious student from Bulgaria</h3>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
