@@ -1,6 +1,8 @@
 <img align="center" src="https://github.com/Slaviiiii/Slaviiiii/assets/106228555/c894c313-fcb0-4842-b7c0-d65dd105d8b0">
-<h1 align="center">Hi 👋, I'm Slavi Karaslavov</h1>
-<h3 align="center">An ambitious student from Bulgaria</h3>
+<p>
+  <h1 align="center">Hi 👋, I'm Slavi Karaslavov</h1> 
+  <h3 align="center">An ambitious student from Bulgaria</h3>
+</p>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -14,7 +16,7 @@
 
 - 📫 How to reach me **slaviiiiiiiiiii@abv.bg**
 
-- ⚡ Fun fact **I am only 14 years old :)**
+- ⚡ Fun fact **I am only 15 years old :)**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -34,11 +36,8 @@
 
 <h2>📈 GitHub Stats</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slaviiiii&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slaviiiii&theme=dark&align=right)](https://git.io/streak-stats)
 
+<a href="#"><img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=Slaviiiii&show_icons=true&theme=dark&include_all_commits=true&hide_border=false" alt="GitHub Stats" /></a>
 
-<a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Slaviiiii&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a>
-
-<a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slaviiiii&layout=compact&hide_border=true" /></a>****
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slaviiiii&" alt="slaviiiii" /></p> 
+<a href="#"><img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slaviiiii&layout=compact&theme=dark&hide_border=false" /></a>
