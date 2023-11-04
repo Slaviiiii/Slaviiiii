@@ -41,3 +41,5 @@
 <a href="#"><img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=Slaviiiii&show_icons=true&theme=dark&include_all_commits=true&hide_border=false" alt="GitHub Stats" /></a>
 
 <a href="#"><img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slaviiiii&layout=compact&theme=dark&hide_border=false" /></a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slaviiiii&repo=trivia-quiz-app)](https://github.com/anuraghazra/github-readme-stats)
