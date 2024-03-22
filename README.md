@@ -1,9 +1,9 @@
-<img align="center" src="https://github.com/Slaviiiii/Slaviiiii/assets/106228555/c894c313-fcb0-4842-b7c0-d65dd105d8b0">
+
 <p>
-  <h1 align="center">Hi 👋, I'm Slavi Karaslavov</h1> 
-  <h3 align="center">An ambitious student from Bulgaria</h3>
+  <h1 align="center">Hi 👋, I'm Slavi Karaslavov, <br />
+    a web developer from Bulgaria 
+</h1> 
 </p>
-<hr>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slaviiiii&label=Profile%20views&color=0e75b6&style=flat" alt="slaviiiii" /> </p>
