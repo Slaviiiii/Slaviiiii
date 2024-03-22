@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/slavikaraslavov" target="_blank" rel="opener"><img src="https://img.shields.io/twitter/follow/slavikaraslavov?logo=twitter&style=for-the-badge" alt="slavikaraslavov" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js** and a bit of **Astro**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **MERN**
 
