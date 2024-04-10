@@ -41,4 +41,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📈 Github Stats
-![](https://github-readme-stats.vercel.app/api?username=Slaviiiii&theme=catppuccin_mocha&show_icons=true)
+<p>
+  <img alt="Neosoulink's stats" src="https://github-readme-stats.vercel.app/api?username=Slaviiiii&theme=catppuccin_mocha&show_icons=true&hide_title=true&hide_border=true" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slaviiiii&include_all_commits=true&layout=compact&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
+</p>
