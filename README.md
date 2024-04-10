@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently enhancing my portfolio
 
-- ⚡ Fun fact - **I am only 15 years old**
+- ⚡ Fun fact - *I am only 15 years old*
 
 <div>
   <a href="mailto:karaslavovslavi@gmail.com">
