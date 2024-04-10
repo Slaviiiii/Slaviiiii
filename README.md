@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Slavi Karaslavov
 
-- 🎓 Dedicated 2 years to completing the entire JavaScript course sequence at [Softuni](https://softuni.bg).
+- 🎓 Dedicated 2 years to completing the entire JavaScript course sequence at [SoftUni](https://softuni.bg).
 
 - 🌱 I’m currently enhancing my portfolio
 
