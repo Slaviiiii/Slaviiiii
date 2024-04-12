@@ -9,10 +9,6 @@
 - ⚡ Fun fact - *I am only 15 years old*
 
 <div>
-  <a href="mailto:karaslavovslavi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
   <a href="https://linkedin.com/in/slavi-karaslavov-84b5902a4">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
