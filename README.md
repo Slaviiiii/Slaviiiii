@@ -37,6 +37,6 @@
 
 # 📈 Github Stats
 <p>
-  <img alt="Neosoulink's stats" src="https://github-readme-stats.vercel.app/api?username=Slaviiiii&theme=catppuccin_mocha&show_icons=true&hide_title=true&hide_border=true" />
+  <img alt="Slavi's stats" src="https://github-readme-stats.vercel.app/api?username=Slaviiiii&theme=catppuccin_mocha&show_icons=true&hide_title=true&hide_border=true" />
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slaviiiii&include_all_commits=true&layout=compact&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
 </p>
