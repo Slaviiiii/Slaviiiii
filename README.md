@@ -9,12 +9,12 @@
 - ⚡ Fun fact - *I am only 15 years old*
 
 <div>
-  <a href="https://linkedin.com/in/slavi-karaslavov-84b5902a4">
+  <a href="https://linkedin.com/in/slavi-karaslavov-84b5902a4" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
   <a href="https://portfolio-website-one-steel.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"/>
   </a>
 </div> 
 
