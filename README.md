@@ -4,17 +4,7 @@
 
 - 🎓 Dedicated 2 years to completing the entire JavaScript course sequence at [SoftUni](https://softuni.bg).
 
-- 🌱 I’m currently enhancing my portfolio
-
-<div>
-  <a href="https://linkedin.com/in/slavi-karaslavov-84b5902a4" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://portfolio-website-one-steel.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-  </a>
-</div> 
+- 📈 Working on improving my engineering skills
 
 # 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
