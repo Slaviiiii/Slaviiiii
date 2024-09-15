@@ -6,6 +6,6 @@
 
 - 📈 Working on improving my engineering and entrepreneurship skills
 
-- 🌟 Interested in software development and sports
+- 🕵🏻 Smart Contract Security Researcher and Web3 enthusiast
 
 - 📫 You can reach me at karaslavovslavi@gmail.com
