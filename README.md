@@ -2,9 +2,7 @@
 
 # 👋 Hi, I'm Slavi
 
-- 🕵🏻 Smart Contract Security Researcher and Web3 enthusiast
-
-- 🎓 Dedicated 2 years to completing the entire JavaScript course sequence at [SoftUni](https://softuni.bg).
+- 🎓 I dedicated 2 years to completing the entire JavaScript course sequence at [SoftUni](https://softuni.bg).
 
 - 📈 Working on improving my engineering and entrepreneurship skills
 
